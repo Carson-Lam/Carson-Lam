@@ -1,5 +1,8 @@
-## Hi there 👋
-
+- 👋 Hi, I'm Carson Lam
+- 👀 I'm interested in web development, artificial intelligence, and data scraping.
+- 📓 I'm currently learning algorithms and machine learning.
+- 🤝 I'm looking to collaborate on web apps.
+- ✉ lamcn51@gmail.com 
 <!--
 **Carson-Lam/Carson-Lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
