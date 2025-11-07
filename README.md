@@ -1,6 +1,6 @@
 <h2 align="Center" style="padding-bottom: 20px;">Hello, I'm <a href="https://www.linkedin.com/in/carsonlam5/" target="_blank" rel="noopener noreferrer">Carson Lam</a> 
 </h2>
-
+<!-- 
 <ul style="padding: 0;">
 <li align = "center">
 I'm a Computer Engineering & Computer Science undergraduate at [Emory University](https://www.emory.edu/home/index.html) and [Georgia Tech](https://www.gatech.edu/)
@@ -8,7 +8,15 @@ I'm a Computer Engineering & Computer Science undergraduate at [Emory University
 <li align = "center">
 I'm interested in web development, machine learning, and data scraping.
 </li>
-</ul>
+</ul> -->
+
+<h4 align="center">
+Computer Engineering & CS Student | Full-Stack Developer | ML Enthusiast
+</h4>
+
+<p align="center">
+I build scalable web applications and ML solutions. Currently exploring Spatial Clustering and Algorithmic trading.
+</p>
 
 ### Languages and Tools 
 <p align = "center">
@@ -27,7 +35,7 @@ I'm interested in web development, machine learning, and data scraping.
 
 
 
-### My Stats
+### My Stats 
 
 <!-- [![Carson-Lam's Stats](https://github-readme-stats.vercel.app/api?username=Carson-Lam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/Carson-Lam?tab=repositories) -->
 <!-- ![Carson-Lam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carson-Lam&theme=tokyonight&hide_border=true)&nbsp; -->
