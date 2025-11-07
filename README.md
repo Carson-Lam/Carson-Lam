@@ -25,12 +25,14 @@ I build scalable web applications and ML solutions. Currently exploring Spatial 
   <code><img height="30" width="25" src="https://github.com/Carson-Lam/Carson-Lam/raw/refs/heads/main/icons/terminal-1.svg" alt="terminal"></code>
   <code><img height="30" width="25" src="https://github.com/Carson-Lam/Carson-Lam/raw/refs/heads/main/icons/java-4.svg" alt="java"></code>
   <code><img height="30" width="25" src="https://github.com/Carson-Lam/Carson-Lam/raw/refs/heads/main/icons/css-3.svg" alt="CSS"></code>
-  <code><img height="30" src="https://github.com/Carson-Lam/Carson-Lam/raw/refs/heads/main/icons/html-5.svg" alt="SQL"></code>
-  <code><img height="30"  src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/sql.png?raw=true" alt="SQL"></code>
+  <code><img height="30" src="https://github.com/Carson-Lam/Carson-Lam/raw/refs/heads/main/icons/html-5.svg" alt="HTML5"></code>
+  <code><img height="25"  src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/Postgres.svg?raw=true" alt="SQL"></code>
   <code><img height="30" width="25" src="https://github.com/Carson-Lam/Carson-Lam/raw/refs/heads/main/icons/javascript.svg" alt="JavaScript"></code>
-  <code><img height="30" width="30"  src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/Matlab_Logo.png?raw=true" alt="MATLAB"></code>
+  <code><img height="30" width="30"  src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/SKL.png?raw=true" alt="Scikitlearn"></code>
   <code><img height="30" width="30" src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/AWS.png?raw=true" alt="AWS"></code>
-  <code><img height="30" width="30" src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/figma_icon.png?raw=true" alt="AWS"></code>
+  <code><img height="30" width="30" src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/C.png?raw=true" alt="C"></code>
+  <code><img height="30" width="30" src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/SpringBoot.png?raw=true" alt="Spring"></code>
+
 </p>
 
 
