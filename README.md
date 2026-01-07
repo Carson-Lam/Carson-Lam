@@ -35,16 +35,14 @@ I build scalable web applications and ML solutions. Currently exploring Spatial 
 
 </p>
 
-
-
-### My Stats 
+<!-- ### My Stats -->
 
 <!-- [![Carson-Lam's Stats](https://github-readme-stats.vercel.app/api?username=Carson-Lam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/Carson-Lam?tab=repositories) -->
 <!-- ![Carson-Lam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carson-Lam&theme=tokyonight&hide_border=true)&nbsp; -->
 
-<p align = "center">
+<!-- <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carson-Lam&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="height: 200px; width: auto;" alt="Carson-Lam's Top Languages"/>
-</p>
+</p> -->
 
 
 ### Social
