@@ -1,5 +1,4 @@
-<h2 align="Center" style="padding-bottom: 20px;">Hello, I'm <a href="https://www.linkedin.com/in/carsonlam5/" target="_blank" rel="noopener noreferrer">Carson Lam</a> 
-</h2>
+<h2 align="Center" style="padding-bottom: 20px;">Hello, I'm Carson Lam</h2>
 <!-- 
 <ul style="padding: 0;">
 <li align = "center">
