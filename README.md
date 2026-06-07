@@ -14,7 +14,7 @@ Computer Engineering & CS Student | Full-Stack Developer | ML Enthusiast
 </h4>
 
 <p align="center">
-I build scalable web applications and ML solutions. Currently exploring Spatial Clustering and Algorithmic trading.
+I build scalable web applications. Currently exploring Spatial Clustering and Algorithmic trading.
 </p>
 
 ### Languages and Tools 
@@ -44,7 +44,7 @@ I build scalable web applications and ML solutions. Currently exploring Spatial 
 </p> -->
 
 
-### Social
+### Connect with me
 <p align = "center">
   <a href="https://www.linkedin.com/in/carsonlam5/" target="_blank"><img height="30" src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/Linkedin-logo.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:lamcn51@gmail.com" target="_blank"><img height="30" src="https://github.com/Carson-Lam/Carson-Lam/blob/main/icons/Gmail-icon.png?raw=true"></a>
